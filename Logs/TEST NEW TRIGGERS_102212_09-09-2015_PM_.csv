@@ -1,0 +1,27 @@
+Trial No,Stimulus,Trigger,Response,Response Time(ms),Correct,Block,Fixation Duration
+Practice
+Trials
+1,D,5,3,1040,New Target,1,925
+1,BYBYB,151,1,999,Correct,1,845
+1,FBFBF,152,1,1049,Correct,1,836
+1,RKRKR,153,1,1137,Correct,1,763
+1,QSQNQ,161,2,927,Correct,1,769
+1,CTCFC,162,2,952,Correct,1,701
+1,PDPNP,71,[2],[1544],Incorrect,1,937
+1,OPOFO,14,2,1060,Correct,1,696
+1,HLHNH,162,2,1495,Correct,1,710
+1,MFMFM,151,1,655,Correct,1,948
+1,BTBTB,152,1,908,Correct,1,670
+1,MCMPD,235,2,832,Correct,1,817
+1,BMBFB,222,2,1323,Correct,1,703
+1,NTNZN,162,2,929,Correct,1,738
+1,MXMRM,163,2,1099,Correct,1,832
+1,APABA,164,2,1152,Correct,1,742
+1,FMDMF,223,1,1310,Correct,1,840
+1,QPQPQ,111,1,1395,Correct,1,788
+1,VQVMV,161,2,872,Correct,1,877
+1,RERPR,162,2,1233,Correct,1,935
+1,KVKVK,151,1,950,Correct,1,863
+1,AKAHA,161,2,846,Correct,1,939
+1,VDVDV,8,[2][3],[1046][1206],Incorrect,1,667
+1,DUGUG,221,1,1240,Correct,1,702

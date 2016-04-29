@@ -1,0 +1,18 @@
+Trial No,Stimulus,Trigger,Response,Response Time(ms),Correct,Block,Fixation Duration
+Practice
+OT Practice
+1,SKSKS,15,1,564,Correct,0,921
+1,DLDUD,16,2,682,Correct,0,654
+1,PDPGP,16,2,756,Correct,0,843
+1,MWMWM,15,1,915,Correct,0,732
+1,FTFTF,15,1,724,Correct,0,867
+1,AXAMA,16,2,622,Correct,0,702
+1,RYRGR,16,2,794,Correct,0,928
+1,DODOD,15,1,653,Correct,0,936
+1,QTQAQ,16,2,828,Correct,0,746
+1,YEYEY,15,2,799,False,0,829
+DT Practice
+1,TKTKT,15,1,741,Correct,0,744
+1,SLSUS,16,2,803,Correct,0,866
+1,VBVGV,7,[3],[706],False,0,681
+1,XWXBX,7,[2][3],[570][746],Correct,0,698

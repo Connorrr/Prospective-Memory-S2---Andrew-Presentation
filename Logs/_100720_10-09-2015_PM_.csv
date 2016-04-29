@@ -1,0 +1,11 @@
+Trial No,Stimulus,Trigger,Response,Response Time(ms),Correct,Block,Fixation Duration
+Practice
+Trials
+1,D,5,3,1213,New Target,1,799
+1,BYBYB,151,1,667,Correct,1,932
+1,FBFBF,152,1,1275,Correct,1,757
+1,RKRKR,153,1,934,Correct,1,705
+1,QSQNQ,161,2,868,Correct,1,937
+1,CTCFC,162,1,716,Incorrect,1,847
+1,PDPNP,71,2,941,Incorrect,1,893
+1,OPOFO,14,2,870,Correct,1,670

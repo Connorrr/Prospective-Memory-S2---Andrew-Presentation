@@ -1,0 +1,10 @@
+Trial No,Stimulus,Trigger,Response,Response Time(ms),Correct,Block,Fixation Duration
+Practice
+OT Practice
+1,DKDKD,15,2,1346,False,0,651
+1,DLDUD,16,2,523,Correct,0,776
+1,DDDGD,16,1,846,False,0,877
+1,DWDWD,15,2,786,False,0,693
+1,DTDTD,15,1,450,Correct,0,859
+1,DXDMD,16,2,531,Correct,0,796
+1,DYDGD,16,2,1166,Correct,0,847
